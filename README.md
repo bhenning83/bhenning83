@@ -2,7 +2,7 @@
 <div>
 <h1>Welcome.</h1>
 
-Within these repositories you'll find a lot of good code and a lot of bad code. Hopefully, the code gets better chronologically. I began learning to code with <a href='theodinproject.com'> The Odin Project</a> in April 2020 and quickly learned what a div is. 
+Within these repositories you'll find a lot of good code and a lot of bad code. Hopefully, you'll find the work gets better chronologically. I began learning to code with <a href='theodinproject.com'> The Odin Project</a> in April 2020 and quickly learned what a div is. 
 
 Since then, I've learned a lot about JavaScript, React, git, Ruby, Ruby on Rails, webpack, TDD, databases, working with API's, and everything in between. 
 
